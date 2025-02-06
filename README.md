@@ -1,2 +1,2 @@
 # anantsabharwal.github.io
-Fun side project that I made during valentine day
+Fun side projects that I want to build and deploy here on github
